@@ -1,4 +1,3 @@
-Here's the translated version of the `README.md` in English:
 
 ---
 
@@ -21,7 +20,7 @@ This is a Node.js API application built with TypeScript, Express, and SQLite. Th
 
 ### 1. **Clone the repository**
 ```sh
-git clone https://github.com/your-username/thadda-task.git
+git clone https://github.com/Mina-Sayed/Thadda-Task.git
 cd thadda-task
 ```
 
